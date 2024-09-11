@@ -1,0 +1,21 @@
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\bin\Debug\TrabalhoVeiculos.exe.config
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\bin\Debug\TrabalhoVeiculos.exe
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\bin\Debug\TrabalhoVeiculos.pdb
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.csproj.AssemblyReference.cache
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.csproj.SuggestedBindingRedirects.cache
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.Form1.resources
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.Properties.Resources.resources
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.csproj.GenerateResource.cache
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.csproj.CoreCompileInputs.cache
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.exe
+D:\Projeto ruan m. r. Luz\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.pdb
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\bin\Debug\TrabalhoVeiculos.exe.config
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\bin\Debug\TrabalhoVeiculos.exe
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\bin\Debug\TrabalhoVeiculos.pdb
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.Form1.resources
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.Properties.Resources.resources
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.csproj.GenerateResource.cache
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.exe
+C:\Users\black\Downloads\PROJETOSVS2022\TrabalhoVeiculos\TrabalhoVeiculos\TrabalhoVeiculos\obj\Debug\TrabalhoVeiculos.pdb
